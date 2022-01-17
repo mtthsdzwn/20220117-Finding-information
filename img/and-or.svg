@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 2 252 60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 2 280 80">
     <defs>
         <marker id="arrow" viewBox="0 0 20 10" refX="1" refY="5" markerWidth="5" markerHeight="10" orient="auto-start-reverse">
             <path d="M0 0 l 10 5-10 5 z" stroke="none" />
@@ -57,28 +57,32 @@
     </style>
 
 
-    <rect x="1" y="23" width="55" height="20" />
-    <text x="4" y="34" class="inbox">
-        Brexit
+    <rect x="1" y="23" width="75" height="20" />
+    <text x="4" y="33" class="inbox">
+        Innovation
     </text>
 
-    <path d="m 64 33.5 h 40" />
-    <text x="69" y="33.5" class="onarrow">
+    <path d="m 84 33.5 h 40" />
+    <text x="89" y="33.5" class="onarrow">
         AND
     </text>
 
-    <path d="m 114 12 v 40" />
-    <text x="114" y="17" transform="rotate(90 114,17)" class="onarrow">
+    <path d="m 134 12 v 40" />
+    <text x="114" y="-4" transform="rotate(90 114,17)" class="onarrow">
         OR
     </text>
 
-    <rect x="131" y="7" width="120" height="20" />
-    <text x="133" y="17" class="inbox">
-        migration
+    <rect x="151" y="7" width="125" height="20" />
+    <text x="153" y="17" class="inbox">
+        CSR
     </text>
 
-    <rect x="131" y="37" width="120" height="20" />
-    <text x="133" y="47" class="inbox">
-        "labour mobility"
+    <rect x="151" y="37" width="125" height="40" />
+    <text x="153" y="47" class="inbox">
+        "Corporate
     </text>
+    <text x="161" y="65" class="inbox">
+        responsibility"
+    </text>
+    
 </svg>

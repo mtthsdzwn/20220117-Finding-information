@@ -98,8 +98,15 @@ class:inverse
 
 # Why do you need information?
 
+--
+<p><a href="https://www.menti.com/29htg42ttq" target=_blank style="color: #FFFFFF">https://www.menti.com/29htg42ttq</a></p>
+<p><img src="img/mentimeter_qr_code.png"style="max-width: 25%;height: auto;"></p>
+
+  
+
 ???
 Icebreaker question for public
+
 ---
 
 # Why do you need information?
@@ -297,7 +304,8 @@ These tutorials can help you find your way in Nexis Uni.
 </a>
 
 <a href="#scopus">
-<img src="img/scopus.jpg" alt="Scopus logo" style="display:block; position:absolute; left:55%; top:75%; width:500;">
+<img src="img/scopus.jpg" alt="Scopus logo" 
+style="display:block;position:absolute;left:55%;top:75%;width:500;">
 </a>
 ---
 name:google
@@ -384,7 +392,7 @@ layout: true
 .pull-right[
 .card[
 ## Example        
-How will *Brexit* affect *migration* patterns?
+How does the adoption of *CSR* standards affect *innovation*?
 ]
 ]
 
@@ -400,9 +408,9 @@ How will *Brexit* affect *migration* patterns?
 ## &ldquo;Boolean operators&rdquo;: AND
 *A* AND *B*
 
-*Brexit* AND *migration*
+*CSR* AND *innovation*
 
-Selects articles that mention *both* Brexit *and* migration.
+Selects articles that mention *both* CSR *and* innovation.
 
 Fewer results, more precise.
 ]]
@@ -418,9 +426,9 @@ Fewer results, more precise.
 ## &ldquo;Boolean operators&rdquo;: OR
 *A* OR *B*
 
-*Brexit* OR *migration*
+*CSR* OR *innovation*
 
-Selects articles that mention *either* Brexit *or* migration.
+Selects articles that mention *either* CSR *or* innovation
 
 More results, less precise.
 ]]
@@ -436,7 +444,7 @@ More results, less precise.
 ## &ldquo;Boolean operators&rdquo;
 *A* AND *B* AND *C*
 
-*Brexit* AND *migration* AND &quot;*economic growth*&quot;
+*CSR* AND *innovation* AND &quot;*strategic management*&quot;
 
 Combine as many search terms as needed.
 
@@ -458,7 +466,7 @@ Use &ldquo;OR&rdquo; to combine the different terms that can be used to describe
 Start broadly, narrow down results as necessary.
 ---
 <div class="card"><h2>Parentheses <b>(</b>...<b>)</b></h2><p>For grouping: <span style="font-family:monospace">A AND (B OR C)</span></p></div>
-<div class="card"><h2>Quotes <b>&quot;</b>...<b>&quot;</b></h2><p>For phrases: <span style="font-family:monospace">"labour mobility"</span></p></div>
+<div class="card"><h2>Quotes <b>&quot;</b>...<b>&quot;</b></h2><p>For phrases: <span style="font-family:monospace">"corporate social responsibility"</span></p></div>
 <div class="card"><h2>Wildcards <b>?</b>,<b>&#42;</b></h2><p>For one or more characters: <span style="font-family:monospace">colo?r</span></p></div>
 <div class="card"><h2>Careful!</h2><p>Exact usage may differ between search engines!</p></div>
 ---

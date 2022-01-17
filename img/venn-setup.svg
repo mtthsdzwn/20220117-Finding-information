@@ -22,7 +22,7 @@
             fill: #000;
             dominant-baseline: middle;
             text-anchor: middle;
-            font-size: 16px;
+            font-size: 15px;
             font-family: Noto Sans;
             font-weight: normal;
             font-style: normal;
@@ -33,12 +33,12 @@
     <circle cx="55" cy="55" r="50" />
 
     <text x="55" y="55">
-        A:Brexit
+        A:CSR
     </text>
 
     <circle cx="167" cy="55" r="50" />
 
     <text x="167" y="55">
-        B:Migration
+        B:Innovation
     </text>
 </svg>
